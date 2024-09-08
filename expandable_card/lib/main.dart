@@ -82,7 +82,8 @@ class _ExpandableCardState extends State<ExpandableCard> {
                       ),
                     ),
                     AnimatedRotation(
-                      turns: isExpanded ? 1 : 0,
+                      //rotate 180 degree
+                      turns: isExpanded ? 0.5 : 0.0,
                       duration: const Duration(milliseconds: 300),
                       child: const Icon(Icons.arrow_drop_down,
                           color: Colors.white),
