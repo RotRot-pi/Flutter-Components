@@ -4,7 +4,7 @@ This project demonstrates how to create an expandable card widget in Flutter usi
 
 ## Video Demo
 
-![Flutter Expandable Card with Implicit Animations](screenshots/Screencast_20240908_122847.gif)
+![Flutter Expandable Card with Implicit Animations](screenshots/Screencast_20240908_124843.gif)
 
 ## Features
 
