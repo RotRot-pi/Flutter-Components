@@ -2,6 +2,10 @@
 
 This project demonstrates how to create an expandable card widget in Flutter using implicit animations. The card smoothly expands and collapses when tapped, revealing more content with a subtle animation.
 
+## Video Demo
+
+![Flutter Expandable Card with Implicit Animations](screenshots/Screencast_20240908_122847.gif)
+
 ## Features
 
 * **Expandable Card:** The card expands and collapses on tap.
