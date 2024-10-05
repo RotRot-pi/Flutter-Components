@@ -4,7 +4,8 @@ This project demonstrates how to create a custom animated gauge chart in Flutter
 
 ## Video Demo
 
-![Multi-Segment Gauge](demo/demo.mp4)
+![Multi-Segment Gauge](demo/demo.gif)
+
 ## Features
 
 * **Multi-Segment Gauge:**  Visualizes progress with multiple colored segments.
