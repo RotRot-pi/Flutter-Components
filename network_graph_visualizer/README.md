@@ -1,4 +1,4 @@
-# network_graph_visualizer
+# Network Graph Visualizer
 
 ## Network Graph Demo
 
