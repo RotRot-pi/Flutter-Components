@@ -5,9 +5,11 @@ A feature-rich drawing application built with Flutter that allows users to creat
 
 ## 🎥 Demo Video
 
-![App Demo](assets/drawing.mp4)
+<!-- ![App Demo](assets/drawing.mp4) -->
 
-## ✨ Features
+https://github.com/RotRot-pi/Flutter-Components/interactive_drawing_app/assets/drawing.mp4
+
+## ✨ Featuress
 
 - Real-time drawing with smooth line rendering
 - Adjustable brush stroke width
