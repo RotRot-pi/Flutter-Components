@@ -5,7 +5,7 @@ A feature-rich drawing application built with Flutter that allows users to creat
 
 ## 🎥 Demo Video
 
-![App Demo](assets/demo.mp4)
+![App Demo](assets/drawing.mp4)
 
 ## ✨ Features
 
