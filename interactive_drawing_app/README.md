@@ -2,11 +2,10 @@
 
 A feature-rich drawing application built with Flutter that allows users to create digital artwork with customizable brushes and colors.
 
-![App Demo](assets/demo.gif)
 
 ## 🎥 Demo Video
 
-https://github.com/RotRot-pi/Flutter-Components/interactive_drawing_app/assets/drawing.mp4
+![App Demo](assets/demo.mp4)
 
 ## ✨ Features
 
