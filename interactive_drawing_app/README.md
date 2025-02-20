@@ -2,12 +2,11 @@
 
 A feature-rich drawing application built with Flutter that allows users to create digital artwork with customizable brushes and colors.
 
-
 ## 🎥 Demo Video
 
 <!-- ![App Demo](assets/drawing.mp4) -->
 
-https://github.com/RotRot-pi/Flutter-Components/interactive_drawing_app/assets/drawing.mp4
+<https://github.com/RotRot-pi/Flutter-Components/interactive_drawing_app/assets/drawing.mp4>
 
 ## ✨ Featuress
 
@@ -19,27 +18,30 @@ https://github.com/RotRot-pi/Flutter-Components/interactive_drawing_app/assets/d
 - Responsive layout
 - Intuitive gesture controls
 
-
 ## 🚀 Getting Started
 
 ### Installation
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/RotRot-pi/Flutter-Components.git
 ```
 
 2. Navigate to the project directory
+
 ```bash
 cd Flutter-Components/interactive_drawing_app
 ```
 
 3. Install dependencies
+
 ```bash
 flutter pub get
 ```
 
 4. Run the app
+
 ```bash
 flutter run
 ```
@@ -78,6 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 RotRot-pi
+
 - GitHub: [@RotRot-pi](https://github.com/RotRot-pi)
 
 ## ⭐ Show your support
